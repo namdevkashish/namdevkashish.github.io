@@ -785,6 +785,10 @@ img {
   row-gap: 1.5rem;
 }
 
+.footer__links:hover{
+  color: var(--first-color-lighter);
+}
+
 .footer__social{
   font-size: 1.25rem;
   margin-right: var(--mb-1-5);
